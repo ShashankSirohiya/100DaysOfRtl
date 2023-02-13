@@ -1,5 +1,5 @@
 # 100DaysOfRtl
-I am a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM).
+I am Shashank Sirohiya, a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM).I mostly use Questasim software for the simulation of RTL Codes and the Synthesis is performed by using Xilinx Vivado Design Suite.
 
 Day:1 _"ALU"
 
