@@ -2,10 +2,15 @@
 I am a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM).
 
 Day:1 _"ALU"
+
 Day:2 _"Binary_to_Gray_Decoder"
+
 Day:3 _"Gray_to_Binary_Decoder"
+
 Day:4 _"3_8Decoder"
+
 Day:5 _"Encoder8_3"
+
 Day:6 _"Parity_Encoder"
 Day:7 _"Priority_Encoder"
 Day:8 _"Binary_to_Bcd"
