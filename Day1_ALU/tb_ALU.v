@@ -19,12 +19,12 @@ module tb_ALU;
 	#5;
 		d0[7:0]=8'b00000011;
 		d1[7:0]=8'b00000001;
-		sel[3:0]=4'b0000;   	//Addition operation
+		sel[3:0]=4'b0000;   		//Addition operation
 
 	#5;
 		d0[7:0]=8'b00000011;
 		d1[7:0]=8'b00000001;
-		sel[3:0]=4'b0001;       //Subtraction operation
+		sel[3:0]=4'b0001;      		//Subtraction operation
 
 	#5;
 		d0[7:0]=8'b00000011;
@@ -39,27 +39,27 @@ module tb_ALU;
 	#5;
 		d0[7:0]=8'b00000010;
 		d1[7:0]=8'b10100010;
-		sel[3:0]=4'b0100;  		//Logical AND operation ===========
+		sel[3:0]=4'b0100;  		//Logical AND operation ====
+		
+	#5;
+		d0[7:0]=8'b00000010;
+		d1[7:0]=8'b00000010;
+		sel[3:0]=4'b0101;	    	//Logical OR operation =====
 
 	#5;
 		d0[7:0]=8'b00000010;
 		d1[7:0]=8'b00000010;
-		sel[3:0]=4'b0101;	    //Logical OR operation ==================
+		sel[3:0]=4'b0110;		//Not of AND operation =====
 
 	#5;
 		d0[7:0]=8'b00000010;
 		d1[7:0]=8'b00000010;
-		sel[3:0]=4'b0110;		//Not of AND operation ==================
-
-	#5;
-		d0[7:0]=8'b00000010;
-		d1[7:0]=8'b00000010;
-		sel[3:0]=4'b0111;		//Not of OR operation  =============
+		sel[3:0]=4'b0111;		//Not of OR operation  =====
  
 	#5;
 		d0[7:0]=8'b00000010;
 		//d1[7:0]=8'b00000010;
-		sel[3:0]=4'b1000;		//Left Shift operation =================
+		sel[3:0]=4'b1000;		//Left Shift operation =====
 
 	#5;
 		//d0[7:0]=8'b00000010;
