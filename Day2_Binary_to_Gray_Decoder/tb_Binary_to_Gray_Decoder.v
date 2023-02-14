@@ -8,8 +8,8 @@ module tb_Binary_to_Gray_Decoder ;
 
 	// Instantiate the Unit Under Test (UUT)
 	Binary_to_Gray_Decoder uut(.B(t_B), 
-							   .G(t_G)
-							    	);
+				   .G(t_G)
+					);
 	initial begin
 		// Initialize Inputs
 		t_B = 0;
