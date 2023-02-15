@@ -12,7 +12,7 @@ module tb_Gray_to_Binary_Decoder;
 	initial begin
 		// Initialize Inputs
 		    G=3'b000;
-		// Wait 10 ns for global reset to finish
+		// Wait 5 ns
 	
 		#5; G=3'b001;
 
