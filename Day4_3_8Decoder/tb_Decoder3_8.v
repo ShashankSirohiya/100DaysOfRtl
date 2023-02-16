@@ -4,8 +4,7 @@ module tb_Decoder3_8 ;
 
 	Decoder3_8 uut (
 		.i(i), 
-		.y(y)
-	);
+		.y(y));
 	
 	initial
 	begin
@@ -24,7 +23,3 @@ module tb_Decoder3_8 ;
 		#10 i=3'b111;
 	end
 endmodule : tb_Decoder3_8
-
-
-
-
