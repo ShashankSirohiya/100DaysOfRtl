@@ -9,7 +9,7 @@ Day:3 _"Gray_to_Binary_Decoder"
 
 Day:4 _"3_8Decoder"
 
-Day:5 _"Encoder8_3"
+Day:5 _"8_3Encoder"
 
 Day:6 _"Parity_Encoder"
 
@@ -47,7 +47,7 @@ Day:22 _"SR_Latch"
 
 Day:23 _"D_FF"
 
-Day:24 _"T_FF/Master_Slave_JK_FF"
+Day:24 _"Master_Slave_JK_FF"
 
 Day:25 _"Mod7_Counter"
 
