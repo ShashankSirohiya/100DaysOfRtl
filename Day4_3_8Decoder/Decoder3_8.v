@@ -1,5 +1,5 @@
 module Decoder3_8(input [2:0] i,
-   				  output reg[7:0] y);
+   	          output reg[7:0] y);
 	always@(i)
 		begin
 		y=0;
