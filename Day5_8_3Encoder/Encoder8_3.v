@@ -1,5 +1,5 @@
 module Encoder8_3 (input[7:0]IN,
-				    output reg[2:0]out);
+		   output reg[2:0]out);
 	
 	always@(IN)
 	begin
