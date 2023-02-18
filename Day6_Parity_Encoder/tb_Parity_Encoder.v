@@ -3,8 +3,7 @@ module tb_parity_encoder;
 	reg [15:0]x;
 	wire y;
 
-    parity_encoder dut0(.x(x),
-	  			        .y(y));
+    parity_encoder dut0(.x(x),.y(y));
 	initial
 	begin
 		    x=0;
