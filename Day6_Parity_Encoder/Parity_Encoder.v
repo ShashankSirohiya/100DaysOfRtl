@@ -11,16 +11,14 @@ module parity_encoder(input [15:0]x,output y);
 		reg [16:0]temp = 0;
 	generate
 	    for(i=0;i<16;i=i+1)
-			begin
+	    begin
 	    	always@(x)
-				temp[i+1]=parity_x(temp[i],x[i]);
+		temp[i+1]=parity_x(temp[i],x[i]);
 	    end
 	endgenerate
 
 	assign y = temp[16];
-
 endmodule
-
 
 
 

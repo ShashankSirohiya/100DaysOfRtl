@@ -39,7 +39,7 @@ Day:18 _"Endianess"
 
 Day:19 _"Inter_Intra_Delay"
 
-Day:20 _"Shift_&_Swap"
+Day:20 _"Booth algorithm"
 
 Day:21 _"D_Latch"
 
