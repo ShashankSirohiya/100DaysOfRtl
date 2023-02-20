@@ -1,18 +1,18 @@
 module priority_encoder(input [2:0]i,
-					    output reg [1:0]y);
+			output reg [1:0]y);
 	always@(i)
 		begin
 			if    (i[2] == 1)  //2nd place
-				    y=2'b10;
+				y=2'b10;
 
 			else if(i[1] == 1) //1st place
-				    y=2'b01;
+				y=2'b01;
 				
 			else if(i[0] == 1) //0th place
-					y=2'b00;
+				y=2'b00;
 				
 			else 
-					y=2'b11;   //More than one place high
+			    	y=2'b11;   //More than one place high
 		end
 endmodule
 
