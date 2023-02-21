@@ -44,5 +44,5 @@ module tb_Bcd_to_7segment;
 		B=$random;
 		C=$random;
 		D=$random;
-	end     
+	end
 endmodule : tb_Bcd_to_7segment
