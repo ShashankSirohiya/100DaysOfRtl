@@ -19,7 +19,7 @@ Day:8 _"Binary_to_Bcd"
 
 Day:9 _"Bcd_to_7Segment"
 
-Day:10_"Full_Adder"
+Day:10_"Parameterized_full_adder"
 
 Day:11 _"Carry_Look_Ahead_Adder"
 
