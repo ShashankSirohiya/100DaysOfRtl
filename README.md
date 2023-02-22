@@ -79,7 +79,7 @@ Day:38_"SIPO"
 
 Day:39_"PISO"
 
-Day:40_" PIPO"
+Day:40_"PIPO"
 
 Day:41_"Universal_Shift_Register"
 
@@ -117,9 +117,9 @@ Day:57_"Frequency_Divider_by_Oddnumber"
 
 Day:58_"Frequency_Divider_by_Even_number"
 
-Day:59_" " //Psuedo Random Sequence
+Day:59_"Priority_resolver"
 
-Day:60_" " //Priority_resolver
+Day:60_"Psuedo_Random_Sequence"
 
 Day:61_"Parameterised_Cube"
 
@@ -131,15 +131,15 @@ Day:64_"Elevator"
 
 Day:65_"Vending_Machine"
 
-Day:66_" " // Data Encryption
+Day:66_"Rail_Track"
 
-Day:67_" " // Data Decryption
+Day:67_"Running_Led" 
 
-Day:68_" " //Rail Track
+Day:68_"Palindrome_of_a_number"
 
-Day:69_" " //Running Led
+Day:69_"Data_Encryption"
 
-Day:70_" " //Palindrome of a number.
+Day:70_"Data_Decryption"
 
 Day:71_"Fixed_Array"
 
@@ -173,13 +173,13 @@ Day:85_"Parameterised_Sram"
 
 Day:86_"ALU_Enum"
 
-Day:87_" " // How to make Interface of sv testbench env
+Day:87_"How to make Interface of sv testbench env" 
 
-Day:88_" " // How to make Transaction, Generator and Driver modules
+Day:88_"How to make Transaction, Generator and Driver modules" 
 
-Day:89_" " // How to make monitor and scoreboard modules
+Day:89_"How to make monitor and scoreboard modules" 
 
-Day:90_" " // How to make Agent, Environment, Test, Tb_top modules.
+Day:90_"How to make Agent, Environment, Test, Tb_top modules" 
 
 Day:91_"AXI4_LITE"
 
