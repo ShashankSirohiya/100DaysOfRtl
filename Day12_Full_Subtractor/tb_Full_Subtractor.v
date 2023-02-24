@@ -24,4 +24,3 @@ module tb_full_subtractor;
  		choice=$random;
  	end
 endmodule : tb_full_subtractor 
-
