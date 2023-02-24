@@ -4,8 +4,8 @@ module CLA_adder_tb;
     wire [3:0] sum;
     
     CLA_adder uut(.a(a),
-       			  .b(b),
-       			  .sum(sum));
+       		  .b(b),
+       		  .sum(sum));
     
     initial begin
         $display("Testing Carry Look-Ahead Adder");
