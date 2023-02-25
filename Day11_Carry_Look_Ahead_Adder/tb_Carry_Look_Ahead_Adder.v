@@ -17,6 +17,5 @@ module CLA_adder_tb;
         a = 4'b1101; b = 4'b0011; #1; $display("a=%b, b=%b, sum=%b", a, b, sum);
         
         $finish;
-    end
-    
+    end   
 endmodule
