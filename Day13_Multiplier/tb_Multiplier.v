@@ -17,4 +17,3 @@ Multiplier uut0(.a(a),.b(b),.out(out));
 			b=$random;
 		end
 endmodule : tb_Multiplier
-
