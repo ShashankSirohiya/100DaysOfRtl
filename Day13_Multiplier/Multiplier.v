@@ -1,6 +1,7 @@
 module Multiplier(input [3:0]a,b,
-				  output reg [7:0] out);
-			reg [7:0] t1,t2,t3,t4;
+		  output reg [7:0] out);
+	
+		  reg [7:0] t1,t2,t3,t4;
 
 	always@(a,b)
 	begin
@@ -17,4 +18,3 @@ module Multiplier(input [3:0]a,b,
 		out = t1+t2+t3+t4;
 	end
 endmodule : Multiplier
-
