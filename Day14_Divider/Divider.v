@@ -1,5 +1,5 @@
 module Divider(input [3:0]dividend,divisor,
-			   output reg [3:0]quotient,remainder);
+	       output reg [3:0]quotient,remainder);
 
 	always@(dividend,divisor)
 	begin
@@ -12,5 +12,3 @@ module Divider(input [3:0]dividend,divisor,
 		end
 	end
 endmodule : Divider
-
-
