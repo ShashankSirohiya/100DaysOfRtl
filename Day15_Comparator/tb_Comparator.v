@@ -16,4 +16,3 @@ module tb_Comparator;
 			#50;
 		end
 endmodule : tb_Comparator
-
