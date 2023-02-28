@@ -1,6 +1,6 @@
 module Comparator(input [2:0]a,
-				  input [2:0]b,
-				  output reg [1:0] grth,lsth,eq,none);
+		  input [2:0]b,
+		  output reg [1:0] grth,lsth,eq,none);
 
 	always@(a,b)
 	begin
@@ -16,4 +16,3 @@ module Comparator(input [2:0]a,
 	end
 	
 endmodule : Comparator
-
