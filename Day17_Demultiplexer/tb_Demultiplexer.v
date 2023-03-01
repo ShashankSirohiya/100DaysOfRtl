@@ -18,5 +18,5 @@ module tb_Dmux;
 			#100;
 			i=$random;
 			s=$random;
-		end      
+		end    
 endmodule : tb_Dmux
