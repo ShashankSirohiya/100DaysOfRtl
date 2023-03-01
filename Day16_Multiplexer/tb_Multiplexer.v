@@ -51,5 +51,4 @@ module tb_Mux8_1;
 		s2=$random;
 		$display("s2=%d,s1=%d,s0=%d",s2,s1,s0);
 	end
-      
 endmodule :tb_Mux8_1
