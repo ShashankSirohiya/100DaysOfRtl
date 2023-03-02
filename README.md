@@ -48,7 +48,8 @@ Day:22_"SR_Latch"
 Day:23_"D_FF"
 
 Day:24_"Master_Slave_JK_FF"
--------------------------------------------
+
+-----------------------------------------------
 Day:25_"Mod7_Counter"
 
 Day:26_"Gray_Counter"
@@ -68,6 +69,7 @@ Day:32_"FSM_Sequence_Detector_101011"
 Day:33_"FSM_Traffic_Light_Controller"
 
 Day:34_"FSM_Sequence_Generator"
+
 ----------------------------------------------
 Day:35_"LFSR"
 
@@ -116,6 +118,7 @@ Day:56_"Clock_Buffer"
 Day:57_"Frequency_Divider_by_Oddnumber"
 
 Day:58_"Frequency_Divider_by_Even_number"
+
 ------------------------------------------------
 Day:59_"Priority_resolver"
 
@@ -136,10 +139,12 @@ Day:66_"Rail_Track"
 Day:67_"Running_Led" 
 
 Day:68_"Palindrome_of_a_number"
+
 --------------------------------------------
 Day:69_"Data_Encryption"
 
 Day:70_"Data_Decryption"
+
 -------------------------------------------
 Day:71_"AXI4_LITE"
 
@@ -154,6 +159,7 @@ Day:75_"AHB"
 Day:76_"AHB_APB_Bridge"
 
 Day:77_"VGA"
+
 --------------------------------------------
 Day:78_"Typecasting"
 
