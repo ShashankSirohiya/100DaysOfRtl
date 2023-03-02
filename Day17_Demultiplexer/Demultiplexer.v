@@ -1,6 +1,6 @@
 module Dmux(input i,
-			input [1:0] s,
-			output reg [3:0] y);
+	    input [1:0] s,
+	    output reg [3:0] y);
 	always@(i,s)
 		begin
 		y=0;
