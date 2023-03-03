@@ -49,6 +49,7 @@ Day:23_"D_FF"
 
 Day:24_"Master_Slave_JK_FF"
 
+-----------------------------------------------
 Day:25_"Mod7_Counter"
 
 Day:26_"Gray_Counter"
@@ -69,6 +70,7 @@ Day:33_"FSM_Traffic_Light_Controller"
 
 Day:34_"FSM_Sequence_Generator"
 
+----------------------------------------------
 Day:35_"LFSR"
 
 Day:36_"RSB"
@@ -117,13 +119,14 @@ Day:57_"Frequency_Divider_by_Oddnumber"
 
 Day:58_"Frequency_Divider_by_Even_number"
 
+------------------------------------------------
 Day:59_"Priority_resolver"
 
 Day:60_"Psuedo_Random_Sequence"
 
 Day:61_"Parameterised_Cube"
 
-Day:62_"Password"
+Day:62_"Password(Digital Safe locker)"
 
 Day:63_"Prime_Number"
 
@@ -137,24 +140,27 @@ Day:67_"Running_Led"
 
 Day:68_"Palindrome_of_a_number"
 
+--------------------------------------------
 Day:69_"Data_Encryption"
 
 Day:70_"Data_Decryption"
 
-Day:71_"Fixed_Array"
+-------------------------------------------
+Day:71_"AXI4_LITE"
 
-Day:72_"Dynamic_Array"
+Day:72_"APB"
 
-Day:73_"Associative_Array"
+Day:73_"UART"
 
-Day:74_"Packed_Array"
+Day:74_"SPI"
 
-Day:75_"Unpacked_Array"
+Day:75_"AHB"
 
-Day:76_"Structure"
+Day:76_"AHB_APB_Bridge"
 
-Day:77_"Cast"
+Day:77_"VGA"
 
+--------------------------------------------
 Day:78_"Typecasting"
 
 Day:79_"Always_Comb"
@@ -173,27 +179,27 @@ Day:85_"Parameterised_Sram"
 
 Day:86_"ALU_Enum"
 
-Day:87_"How to make Interface of sv testbench env" 
+Day:87_"Fixed_Array"
 
-Day:88_"How to make Transaction, Generator and Driver modules" 
+Day:88_"Dynamic_Array"    
 
-Day:89_"How to make monitor and scoreboard modules" 
+Day:89_"Associative_Array" 
 
-Day:90_"How to make Agent, Environment, Test, Tb_top modules" 
+Day:90_"Packed_Array" 
 
-Day:91_"AXI4_LITE"
+Day:91_"Unpacked_Array"   
 
-Day:92_"APB"
+Day:92_"Structure" 
 
-Day:93_"UART"
+Day:93_"Cast"   
 
-Day:94_"SPI"
+Day:94_"How to make Interface of sv testbench env" 
 
-Day:95_"AHB"
+Day:95_"How to make Transaction, Generator and Driver modules" 
 
-Day:96_"AHB_APB_Bridge"
+Day:96_"How to make monitor and scoreboard modules" 
 
-Day:97_"VGA"
+Day:97_"How to make Agent, Environment, Test, Tb_top modules" 
 
 Day:98_"SV_TB_ADDER"
 
