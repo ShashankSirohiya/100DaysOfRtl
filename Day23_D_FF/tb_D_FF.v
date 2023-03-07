@@ -39,6 +39,5 @@ module tb_Dff;
       begin
         reset=#30 ~reset;
         #20 d = $random;
-      end
-          
+      end       
 endmodule
