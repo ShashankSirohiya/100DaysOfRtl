@@ -48,4 +48,3 @@ module tb_jk_ff;
     always #5 clk = ~clk;
 
 endmodule
-
