@@ -47,7 +47,7 @@ Day:22_"SR_Latch"
 
 Day:23_"D_FF"
 
-Day:24_"Master_Slave_JK_FF"
+Day:24_"JK_FF"
 
 -----------------------------------------------
 Day:25_"Mod7_Counter"
