@@ -1,4 +1,3 @@
-
 module mod7_counter(
 	input clk,reset,
 	output reg [2:0]count
@@ -13,5 +12,4 @@ module mod7_counter(
 
 	else
 		count<=count+1;
-
 endmodule
