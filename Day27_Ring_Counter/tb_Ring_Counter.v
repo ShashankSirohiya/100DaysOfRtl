@@ -24,5 +24,4 @@ module tb_ring_counter;
         end
         $finish;
     end
-
 endmodule
