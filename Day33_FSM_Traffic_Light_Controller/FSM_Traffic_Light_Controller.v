@@ -1,4 +1,4 @@
-module tlc_thursday(
+module tlc(
 	input clk,reset,pass,
 	output reg[1:0]state,
 	output reg red,yellow,green
@@ -70,4 +70,4 @@ module tlc_thursday(
 				endcase
 			end
 		end
-endmodule
+endmodule : tlc
