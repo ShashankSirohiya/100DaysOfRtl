@@ -58,13 +58,13 @@ Day:27_"Ring_Counter"
 
 Day:28_"Jhonson_Counter"
 
-Day:29_"Up_Down_Counter"
+Day:29_"Synchronous_Counter"
 
 Day:30_"Universal_Binary_Counter"
 
 Day:31_"FSM_Onehot"
 
-Day:32_"FSM_Sequence_Detector_101011"
+Day:32_"Sequence_Detector_10110"
 
 Day:33_"FSM_Traffic_Light_Controller"
 
