@@ -1,4 +1,4 @@
-module tb_tlc_thursday;
+module tb_tlc;
         reg tb_rst,tb_clk;
         reg tb_pass;
         wire tb_red;
@@ -6,7 +6,7 @@ module tb_tlc_thursday;
         wire tb_green;
         wire [1:0]tb_state;
 
-        tlc_thursday uut0 (         
+        tlc uut0 (         
                 .reset(tb_rst),
                 .clk(tb_clk),
                 .pass(tb_pass),
