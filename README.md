@@ -146,9 +146,9 @@ Day:69_"Data_Encryption"
 Day:70_"Data_Decryption"
 
 -------------------------------------------
-Day:71_"AXI4_LITE"
+Day:71_"APB"
 
-Day:72_"APB"
+Day:72_"AXI4_LITE"
 
 Day:73_"UART"
 
