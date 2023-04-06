@@ -93,23 +93,23 @@ Day:44_"FIFO_Synchronous"
 
 Day:45_"15_15Rom"
 
-Day:46_"Rom_Asynchronous"
+Day:46_"Asynchronous_Rom"
 
 Day:47_"Rom_Using_Case"
 
 Day:48_"Rom_Alu_Decoder"
 
-Day:49_"Ram_Synchronous"  //Single port
+Day:49_"Synchronous_Ram" 
 
-Day:50_"16_16Ram"  //Dual port
+Day:50_"16_16Ram" 
 
 Day:51_"Asynchronous_Ram"
 
-Day:52_"Bi_directional_Ram"
+Day:52_"Ram_8191k"
 
 Day:53_"Parameterised_Ram"
 
-Day:54_"Ram_8191k"
+Day:54_" "
 
 Day:55_"Clock_Divider"
 
