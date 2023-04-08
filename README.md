@@ -109,11 +109,11 @@ Day:52_"Ram_8191k"
 
 Day:53_"Parameterised_Ram"
 
-Day:54_" "
+Day:54_"Pipeline_shift"
 
-Day:55_"Clock_Divider"
+Day:55_"Delays"
 
-Day:56_"Clock_Buffer"
+Day:56_"Clk_phase"
 
 Day:57_"Frequency_Divider_by_Oddnumber"
 
