@@ -3,9 +3,9 @@ module d_ff(
     input clk,
     input rst,
     output reg q,
-    output qbar
+	 output qbar
     ); 
-	assign qbar=~q;
+	 assign qbar=~q;
 	always@(posedge clk, posedge rst)
 	begin
 		if(rst)
