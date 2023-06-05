@@ -1,6 +1,7 @@
 # 100DaysOfRtl
 I am Shashank Sirohiya, a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM).I mostly use Questasim software for the simulation of RTL Codes and the Synthesis is performed by using Xilinx Vivado Design Suite.
 
+--------------------------------------------//
 Day:1 _"ALU"
 
 Day:2 _"Binary_to_Gray_Decoder"
@@ -49,7 +50,8 @@ Day:23_"D_FF"
 
 Day:24_"JK_FF"
 
------------------------------------------------
+--------------------------------------------//
+
 Day:25_"Mod7_Counter"
 
 Day:26_"Gray_Counter"
@@ -70,7 +72,8 @@ Day:33_"FSM_Traffic_Light_Controller"
 
 Day:34_"FSM_Sequence_Generator"
 
-----------------------------------------------
+--------------------------------------------//
+
 Day:35_"LFSR"
 
 Day:36_"RSB"
@@ -119,7 +122,8 @@ Day:57_"Frequency_Divider_by_Oddnumber"
 
 Day:58_"Frequency_Divider_by_Even_number"
 
-------------------------------------------------
+--------------------------------------------//
+
 Day:59_"Priority_resolver"
 
 Day:60_"Psuedo_Random_Sequence"
@@ -140,69 +144,79 @@ Day:67_"Running_Led"
 
 Day:68_"Palindrome_of_a_number"
 
---------------------------------------------
 Day:69_"Data_Encryption"
 
 Day:70_"Data_Decryption"
 
--------------------------------------------
-Day:71_"APB"
+------------------SV--------------------------//
 
-Day:72_"AXI4_LITE"
+Day:71_"Randomization"
 
-Day:73_"UART"
+Day:72_"Pre - Post Randomization"
 
-Day:74_"SPI"
+Day:73_"Inline Constraints"
 
-Day:75_"AHB"
+Day:74_"Weighted Constraints"
 
-Day:76_"AHB_APB_Bridge"
+Day:75_"Inside Operator"
 
-Day:77_"VGA"
+Day:76_"Oops Inheritance"
 
---------------------------------------------
-Day:78_"Typecasting"
+Day:77_"Oops Encapsulation"
 
-Day:79_"Always_Comb"
+Day:78_"Oops Polymorphism"
 
-Day:80_"Always_Latch"
+Day:79_"Mailbox"
 
-Day:81_"Always_FF"
+Day:80_"Fixed & Dynamic Array"
 
-Day:82_"Queue"
+Day:81_"Enum Data type"    
 
-Day:83_"Ah_as,Ah_s,Al_as,Al_s_Reset"
+Day:82_"Package in SV" 
 
-Day:84_"Sequence_Detector_Enum"
+Day:83_"Semaphore" 
 
-Day:85_"Parameterised_Sram"
+Day:84_"Functional Coverage | Implicit bin"   
 
-Day:86_"ALU_Enum"
+Day:85_"Functional Coverage | Explicit bin" 
 
-Day:87_"Fixed_Array"
+--------------------UVM------------------------//
 
-Day:88_"Dynamic_Array"    
+Day:86_"UVM_MACROS"   
 
-Day:89_"Associative_Array" 
+Day:87_"Working with Verbosity level and ID" 
 
-Day:90_"Packed_Array" 
+Day:88_"UVM_FIELD_MACROS_int" 
 
-Day:91_"Unpacked_Array"   
+Day:89_"UVM_FIELD_MACROS_enum" 
 
-Day:92_"Structure" 
+Day:90_"UVM_FIELD_MACROS_arrays" 
 
-Day:93_"Cast"   
+Day:91_"UVM_FIELD_MACROS_copy and clone" 
 
-Day:94_"How to make Interface of sv testbench env" 
+Day:92_"UVM_FIELD_MACROS_shallow and deep copy"
 
-Day:95_"How to make Transaction, Generator and Driver modules" 
+--------------------------------------------//
 
-Day:96_"How to make monitor and scoreboard modules" 
+Day:93_"SV_TB_ADDER"
 
-Day:97_"How to make Agent, Environment, Test, Tb_top modules" 
+Day:94_"UVM_TB_ADDER"
 
-Day:98_"SV_TB_ADDER"
+--------------------------------------------//
 
-Day:99_"SV_TB_MEMORY"
+Day:95_"AXI4_LITE"
 
-Day:100_"UVM_TB_ADDER"
+Day:96_"AXI"
+
+Day:97_"APB"
+
+Day:98_"AHB"
+
+Day:99_"SPI"
+
+Day:100_"UART"
+
+Day:101_"I2C"
+
+--------------------------------------------//
+--------------------------------------------//
