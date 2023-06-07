@@ -14,7 +14,7 @@ module tb;
     t = new();
     repeat(10)begin
     t.randomize with {var1 == 5;};
-    $display("var1=%d", c.var1);
+    $display("var1=%d", t.var1);
    end
  end
 endmodule
