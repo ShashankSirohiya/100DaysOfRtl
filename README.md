@@ -198,25 +198,27 @@ Day:92_"UVM_FIELD_MACROS_shallow and deep copy"
 
 --------------------------------------------//
 
-Day:93_"SV_TB_ADDER"
+Day:93_"SV_TB_DFF"
 
-Day:94_"UVM_TB_ADDER"
+Day:94_"SV_TB_FIFO"
+
+Day:95_"SV_TB_ADDER"
+
+Day:96_"UVM_TB_ADDER"
 
 --------------------------------------------//
 
-Day:95_"AXI4_LITE"
+Day:97_"AXI4_LITE"
 
-Day:96_"AXI"
+Day:98_"AXI"
 
-Day:97_"APB"
+Day:99_"APB"
 
-Day:98_"AHB"
+Day:100_"AHB"
 
-Day:99_"SPI"
+--------------------------------------------//
 
-Day:100_"UART"
-
-Day:101_"I2C"
+Next_upcoming_"SPI"_"UART"_"I2C"
 
 --------------------------------------------//
 --------------------------------------------//
