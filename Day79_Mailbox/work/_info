@@ -1,0 +1,34 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day78_Oops_Polymorphism
+vtb
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1686164780
+!i10b 1
+!s100 z1`J1<fcNEM5R9@MOY>_J1
+IcgVFPW8FidO6CULdHJ;dH1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 Mailbox_sv_unit
+S1
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day79_Mailbox
+w1686164775
+8C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day79_Mailbox\Mailbox.sv
+FC:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day79_Mailbox\Mailbox.sv
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1686164780.000000
+!s107 C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day79_Mailbox\Mailbox.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day79_Mailbox\Mailbox.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
