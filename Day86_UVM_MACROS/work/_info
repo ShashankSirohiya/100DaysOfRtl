@@ -1,0 +1,34 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day85_Functional_Coverage_Explicit_bin
+vtb
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1686166918
+!i10b 1
+!s100 56SMmlW9C1=?KAMkMenZe0
+ImY_]=M4H[giHNNIDCVjYl0
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 UVM_MACROS_sv_unit
+S1
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day86_UVM_MACROS
+w1686166747
+8C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day86_UVM_MACROS\UVM_MACROS.sv
+FC:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day86_UVM_MACROS\UVM_MACROS.sv
+L0 5
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1686166917.000000
+!s107 C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day86_UVM_MACROS\UVM_MACROS.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day86_UVM_MACROS\UVM_MACROS.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
