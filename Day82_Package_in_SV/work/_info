@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day81_Enum_Data_type
+Xpkg
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1686165433
+!i10b 1
+!s100 W=fc`]co:ZmjBMW1EediE3
+I2^F8KZN?KhOl69b?NLkB82
+V2^F8KZN?KhOl69b?NLkB82
+S1
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day82_Package_in_SV
+w1686165401
+8C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day82_Package_in_SV\Package_in_SV.sv
+FC:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day82_Package_in_SV\Package_in_SV.sv
+L0 2
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1686165433.000000
+!s107 C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day82_Package_in_SV\Package_in_SV.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day82_Package_in_SV\Package_in_SV.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
