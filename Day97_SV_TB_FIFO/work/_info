@@ -1,0 +1,107 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day96_SV_TB_DFF
+vfifo
+Z0 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z1 !s110 1689514178
+!i10b 1
+!s100 Xk=TC7ee2U^=1dO1;JECO1
+IkgaYEM`FDlCaTM]]lGhGc0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 DUT_FIFO_sv_unit
+S1
+Z3 dC:/Users/Shashank Sirohiya/Documents/GitHub/100DaysOfRtl/Day97_SV_TB_FIFO
+w1689513951
+8C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\DUT_FIFO.sv
+FC:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\DUT_FIFO.sv
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1689514178.000000
+!s107 C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\DUT_FIFO.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\DUT_FIFO.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+Yfifo_if
+R0
+R1
+!i10b 1
+!s100 X[1YLSDU:F:2eX3Qi?8G01
+IY_PboBWLjZB>7WgJYd<^;2
+R2
+Z8 !s105 TB_FIFO_sv_unit
+S1
+R3
+Z9 w1689514172
+Z10 8C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\TB_FIFO.sv
+Z11 FC:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\TB_FIFO.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\TB_FIFO.sv|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\TB_FIFO.sv|
+!i113 0
+R6
+R7
+vtb
+R0
+DXx4 work 15 TB_FIFO_sv_unit 0 22 F6DPLAcgVmRA9^n:G1O[80
+R2
+r1
+!s85 0
+!i10b 1
+!s100 B=V2ldoFzUBj3=SiEW7G:0
+I0>Q^VJLHSK?XNc^N^8<DT1
+R8
+S1
+R3
+R9
+R10
+R11
+L0 312
+R4
+31
+R5
+Z13 !s107 C:\Users\Shashank Sirohiya\Documents\GitHub\100DaysOfRtl\Day97_SV_TB_FIFO\TB_FIFO.sv|
+R12
+!i113 0
+R6
+R7
+XTB_FIFO_sv_unit
+!s115 fifo_if
+R0
+VF6DPLAcgVmRA9^n:G1O[80
+r1
+!s85 0
+!i10b 1
+!s100 d^c_3X<5e_7_DnY`9F@Rc2
+IF6DPLAcgVmRA9^n:G1O[80
+!i103 1
+S1
+R3
+R9
+R10
+R11
+L0 15
+R4
+31
+R5
+R13
+R12
+!i113 0
+R6
+R7
+n@t@b_@f@i@f@o_sv_unit
