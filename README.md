@@ -1,7 +1,8 @@
 # 100DaysOfRtl
-I am Shashank Sirohiya, a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM).I mostly use Questasim software for the simulation of RTL Codes and the Synthesis is performed by using Xilinx Vivado Design Suite.
+I am Shashank Sirohiya, a VLSI enthusiast and this is my journey of 100 days of RTL(Verilog, System verilog, UVM). I mostly use Questasim software for the simulation of RTL Codes and the Synthesis is performed by using Xilinx Vivado Design Suite.
 
 --------------------------------------------//
+ 
 Day:1 _"ALU"
 
 Day:2 _"Binary_to_Gray_Decoder"
@@ -196,26 +197,25 @@ Day:91_"UVM_FIELD_MACROS_copy and clone"
 
 Day:92_"UVM_FIELD_MACROS_shallow and deep copy"
 
---------------------------------------------//
-
 Day:93_"UVM_FACTORY_OVERRIDE"
 
-Day:94_""
+Day:94_"UVM_COMPONENT_Build_phase"
 
-Day:95_""
+Day:95_"UVM_COMPONENT_Build_and_end_of_elaboration_phase"
 
-Day:96_""
+Day:96_"SV_TB_DFF"
+
+Day:97_"SV_TB_FIFO"
 
 --------------------------------------------//
 
-Day:97_"SV_TB_DFF"
+Day:98_"UVM_TB_ADDER_Combi"
 
-Day:98_"SV_TB_FIFO"
+Day:99_"UVM_TB_ADDER_Sequi"
 
-Day:99_"UVM_TB_ADDER"
+Day:100_
 
-Day:100_"UVM_TB_ADDER"
-
+--------------------------------------------//
 --------------------------------------------//
 
 Upcoming_"AXI"_"APB"_"AHB"_"SPI"_"UART"_"I2C"
