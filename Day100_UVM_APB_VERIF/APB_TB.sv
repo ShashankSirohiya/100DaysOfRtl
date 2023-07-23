@@ -3,6 +3,7 @@
 `include "uvm_macros.svh"
  import uvm_pkg::*;
  
+
 ////////////////////////////////////////////////////////////////////////////////////
 class abp_config extends uvm_object; /////configuration of env
   `uvm_object_utils(abp_config)
@@ -12,12 +13,15 @@ class abp_config extends uvm_object; /////configuration of env
   endfunction
   
   uvm_active_passive_enum is_active = UVM_ACTIVE;
-  
 endclass
+
  
 typedef enum bit [1:0]   {readd = 0, writed = 1, rst = 2} oper_mode;
 
 
+//***********************************************
+// TRANSACTION_CLASS   
+//***********************************************
 class transaction extends uvm_sequence_item;
   
     rand oper_mode   op;
@@ -265,6 +269,10 @@ endclass
  
  
 ////////////////////////////////////////////////////////////
+
+//***********************************************
+// DRIVER_CLASS   
+//***********************************************
 class driver extends uvm_driver #(transaction);
   `uvm_component_utils(driver)
   
@@ -362,6 +370,9 @@ endclass
  
 //////////////////////////////////////////////////////////////////
  
+//***********************************************
+// MON_CLASS   
+//***********************************************
 class mon extends uvm_monitor;
 `uvm_component_utils(mon)
  
@@ -419,7 +430,9 @@ endclass
  
 /////////////////////////////////////////////////////////////////////
  
- 
+//***********************************************
+// SCB_CLASS   
+//***********************************************
 class sco extends uvm_scoreboard;
 `uvm_component_utils(sco)
  
@@ -481,7 +494,10 @@ class sco extends uvm_scoreboard;
 endclass
  
 /////////////////////////////////////////////////////////////////////
- 
+
+//***********************************************
+// AGENT_CLASS   
+//*********************************************** 
 class agent extends uvm_agent;
 `uvm_component_utils(agent)
   
@@ -520,7 +536,10 @@ endfunction
 endclass
  
 //////////////////////////////////////////////////////////////////////////////////
- 
+
+//***********************************************
+// ENV_CLASS   
+//***********************************************
 class env extends uvm_env;
 `uvm_component_utils(env)
  
@@ -546,6 +565,9 @@ endclass
  
 //////////////////////////////////////////////////////////////////////////
  
+//***********************************************
+// TB_TEST   
+//***********************************************
 class test extends uvm_test;
 `uvm_component_utils(test)
  
@@ -583,6 +605,10 @@ endtask
 endclass
  
 //////////////////////////////////////////////////////////////////////
+
+//***********************************************
+// TB_TOP   
+//***********************************************
 module tb;
   
   
@@ -611,3 +637,5 @@ module tb;
  
   
 endmodule
+
+////////////////////////////////////////////////////////////////////////////////
