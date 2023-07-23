@@ -1,5 +1,6 @@
 # 100DaysOfRtl
 My name is Shashank Sirohiya, and I am a passionate VLSI enthusiast. I have embarked on a challenging 100-day journey focused on RTL (Register Transfer Level) design and verification using Verilog, SystemVerilog, and UVM. Throughout this journey, I predominantly utilize Questasim software for RTL code simulation, while relying on Xilinx Vivado Design Suite for synthesis purposes and also used EDA playground. This exciting endeavor allows me to deepen my expertise in the field and explore various aspects of VLSI design.
+
 //--------------------------------------------------------------------------------------------------------------//
  
 Day:1 _"ALU"
